@@ -1,0 +1,34 @@
+{
+  "name": "find-init-code-hash-uniswap",
+  "version": "1.0.0",
+  "description": "Find init code hash Uniswap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonghoang/find-init-code-hash-uniswap.git"
+  },
+  "keywords": [
+    "Deploy",
+    "Uniswap",
+    "Uniswap",
+    "Init",
+    "code",
+    "hash",
+    "Uniswap",
+    "code",
+    "hash"
+  ],
+  "author": "hoangnong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nonghoang/find-init-code-hash-uniswap/issues"
+  },
+  "homepage": "https://github.com/nonghoang/find-init-code-hash-uniswap#readme",
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
